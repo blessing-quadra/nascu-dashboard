@@ -1,0 +1,47 @@
+[
+  {
+    "organizationId": "szvYQ6rPvYnbvngdv0Lwa7SOghVMXYoi",
+    "organizationName": "Ndembalanteh Cooperative Credit Union",
+    "organizationType": "CREDIT_UNION",
+    "isOrganizationActive": true,
+    "membershipMetrics": [
+      {
+        "name": "Total registered users",
+        "value": 24,
+        "isDetails": true
+      },
+      {
+        "name": "Total active users",
+        "value": 2,
+        "isDetails": true
+      },
+      {
+        "name": "Total branch officers",
+        "value": 1,
+        "isDetails": false
+      },
+      {
+        "name": "Active branch officers",
+        "value": 1,
+        "isDetails": true
+      }
+    ],
+    "financialMetrics": [
+      {
+        "name": "Total commissions",
+        "value": 10.0,
+        "isDetails": false
+      },
+      {
+        "name": "Total transactions",
+        "value": 201.5,
+        "isDetails": true
+      },
+      {
+        "name": "Transaction volume",
+        "value": 13,
+        "isDetails": false
+      }
+    ]
+  }
+]

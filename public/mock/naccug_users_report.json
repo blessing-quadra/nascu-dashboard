@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "organizationId": "1",
+      "organizationName": "ABC Credit Union",
+      "organizationType": "CREDIT_UNION",
+      "transaction_volume": 18,
+      "date": "02-12-2022",
+      "status": "Active"
+    },
+    {
+      "organizationId": "2",
+      "organizationName": "DEF Credit Union",
+      "organizationType": "CREDIT_UNION",
+      "transaction_volume": 24,
+      "date": "02-12-2022",
+      "status": "Active"
+    },
+    {
+      "organizationId": "3",
+      "organizationName": "GHI Credit Union",
+      "organizationType": "CREDIT_UNION",
+      "transaction_volume": 9,
+      "date": "02-12-2022",
+      "status": "Active"
+    }
+  ]
+}

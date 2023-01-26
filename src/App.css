@@ -1,0 +1,13 @@
+:root {
+  --primaryColor: "#0F5499";
+}
+
+/* custom classes */
+.onboarding-form-container {
+  width: 308px;
+  height: 220px;
+}
+
+.custom-select .css-13cymwt-control {
+  height: 56px;
+}

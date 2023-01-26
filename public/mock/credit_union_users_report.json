@@ -1,0 +1,29 @@
+{
+  "role": "Credit Union Administrator",
+  "users": [
+    {
+      "organizationId": "1",
+      "organizationName": "ABC Branch Officer",
+      "organizationType": "BRANCH_OFFICER",
+      "transaction_volume": 18,
+      "date": "02-12-2022",
+      "status": "Active"
+    },
+    {
+      "organizationId": "2",
+      "organizationName": "DEF Branch Officer",
+      "organizationType": "BRANCH_OFFICER",
+      "transaction_volume": 24,
+      "date": "02-12-2022",
+      "status": "Inactive"
+    },
+    {
+      "organizationId": "3",
+      "organizationName": "GHI Branch Officer",
+      "organizationType": "BRANCH_OFFICER",
+      "transaction_volume": 9,
+      "date": "02-12-2022",
+      "status": "Active"
+    }
+  ]
+}

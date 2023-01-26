@@ -1,0 +1,15 @@
+{
+  "role": "Credit Union Administrator",
+  "metrics": {
+    "transaction_volume": 18,
+    "registered_branch_officers": 12,
+    "active_branch_officers": 10,
+    "registered_agents": 6,
+    "active_agents": 5,
+    "credit_union_main_wallet_balance": 200,
+    "credit_union_loyalty_wallet_balance": 40,
+    "credit_union_fee_wallet_balance": 32,
+    "credit_union_custody_wallet_balance": 12,
+    "credit_union_commission_wallet_balance": 20
+  }
+}

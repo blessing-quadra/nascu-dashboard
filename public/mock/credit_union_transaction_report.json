@@ -1,0 +1,47 @@
+{
+  "role": "Credit Union Administrator",
+  "transactions": [
+    {
+      "amount": 2,
+      "transaction_type": "CASHOUT",
+      "sender_role": "Branch Officer",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "DEPOSIT",
+      "sender_role": "Branch Officer",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "UTILITY",
+      "sender_role": "Agent",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "COMMISSION",
+      "sender_role": "Member",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "FEE",
+      "sender_role": "Agent",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "CASHOUT",
+      "sender_role": "Branch Officer",
+      "date": "02-12-2022"
+    },
+    {
+      "amount": 2,
+      "transaction_type": "DEPOSIT",
+      "sender_role": "Member",
+      "date": "02-12-2022"
+    }
+  ]
+}

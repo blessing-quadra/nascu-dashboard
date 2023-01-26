@@ -1,0 +1,44 @@
+{
+  "role": "Credit Union Administrator",
+  "users": [
+    {
+      "organizationId": "1",
+      "organizationName": "ABC Branch Officer",
+      "commission_wallet_balance": 30,
+      "main_wallet_balance": 200,
+      "custody_wallet_balance": 12,
+      "fee_wallet_balance": 8,
+      "loyalty_wallet_balance": 14,
+      "transaction_volume": 18,
+      "member_fullname": "Frank Mavins",
+      "date": "02-12-2022",
+      "status": "Active"
+    },
+    {
+      "organizationId": "2",
+      "organizationName": "DEF Branch Officer",
+      "commission_wallet_balance": 30,
+      "main_wallet_balance": 200,
+      "custody_wallet_balance": 12,
+      "fee_wallet_balance": 8,
+      "loyalty_wallet_balance": 14,
+      "transaction_volume": 24,
+      "member_fullname": "James Brown",
+      "date": "02-12-2022",
+      "status": "Inactive"
+    },
+    {
+      "organizationId": "3",
+      "organizationName": "GHI Branch Officer",
+      "commission_wallet_balance": 30,
+      "main_wallet_balance": 200,
+      "custody_wallet_balance": 12,
+      "fee_wallet_balance": 8,
+      "loyalty_wallet_balance": 14,
+      "transaction_volume": 9,
+      "member_fullname": "Craig Muller",
+      "date": "02-12-2022",
+      "status": "Active"
+    }
+  ]
+}

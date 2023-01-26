@@ -1,0 +1,18 @@
+[
+    {
+      "totalNumberOfRegisteredMembers": 2,
+      "numberOfActiveMembers": 0,
+      "totalNumberOfBranchOfficers": 0,
+      "numberOfActiveBranchOfficers": 0,
+      "totalNumberOfAgents": 0,
+      "numberOfActiveAgents": 0,
+      "organizationId": "szvYQ6rPvYnbvngdv0Lwa7SOghVMXYoi",
+      "organizationName": "Ndembalanteh Cooperative Credit Union",
+      "organizationType": "CREDIT_UNION",
+      "isOrganizationActive": true,
+      "totalCommissions": 10.0,
+      "totalTransactionAmount": 10.0,
+      "totalTransactionVolume": 3
+    }
+  ]
+  
